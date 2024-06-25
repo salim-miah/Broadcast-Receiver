@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DrawerMenu2</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string-array name="spinner_list">
+        <item>Custom broadcast receiver</item>
+        <item>System battery notification receiver</item>
+    </string-array>
+</resources>
